@@ -1,0 +1,9 @@
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+*.csv
+__pycache__/
+.DS_Store
+
+

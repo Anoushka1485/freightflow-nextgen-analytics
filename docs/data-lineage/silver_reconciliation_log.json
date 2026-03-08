@@ -1,0 +1,86 @@
+[
+  {
+    "table": "vehicle",
+    "bronze_count": 59,
+    "silver_count": 59,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:44.910597"
+  },
+  {
+    "table": "trucks",
+    "bronze_count": 30,
+    "silver_count": 30,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:45.243507"
+  },
+  {
+    "table": "trailers",
+    "bronze_count": 30,
+    "silver_count": 30,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:45.573340"
+  },
+  {
+    "table": "service_event",
+    "bronze_count": 51,
+    "silver_count": 51,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:45.890283"
+  },
+  {
+    "table": "driver",
+    "bronze_count": 36,
+    "silver_count": 36,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:46.211238"
+  },
+  {
+    "table": "client",
+    "bronze_count": 10,
+    "silver_count": 10,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:46.437202"
+  },
+  {
+    "table": "third_party_carrier",
+    "bronze_count": 5,
+    "silver_count": 5,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:46.658829"
+  },
+  {
+    "table": "tender",
+    "bronze_count": 40,
+    "silver_count": 40,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:46.960571"
+  },
+  {
+    "table": "shipment",
+    "bronze_count": 40,
+    "silver_count": 40,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:47.516663"
+  },
+  {
+    "table": "internal_shipment",
+    "bronze_count": 32,
+    "silver_count": 32,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:47.721040"
+  },
+  {
+    "table": "brokered_shipment",
+    "bronze_count": 8,
+    "silver_count": 8,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:47.974532"
+  },
+  {
+    "table": "dispatch",
+    "bronze_count": 30,
+    "silver_count": 30,
+    "status": "PASS",
+    "timestamp": "2026-03-07T22:38:48.302024"
+  }
+]
